@@ -1,0 +1,6 @@
+{
+  "name": "Dragon 9 Cartoon Pipeline & Asset Architect",
+  "description": "Consolidated cartoon generation, video rendering pipeline, manifest parsers, FFmpeg render handlers, and mobile Termux export suite for the Dragon 9 fluid ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
